@@ -1,4 +1,4 @@
-<!-- omit in toc -->
+<!-- omit in toc --> 
 # Welcome to CAP Samples for Java
 
 ![CI status](https://github.com/SAP-samples/cloud-cap-samples-java/workflows/Java%20CI%20with%20Maven/badge.svg)
