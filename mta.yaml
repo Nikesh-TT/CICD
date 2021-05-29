@@ -25,7 +25,7 @@ modules:
     build-parameters:
       builder: custom
       commands:
-        - mvn clean package -DskipTests=true
+        - mvn clean package -DskipTests=false
       build-result: target/*-exec.jar
     requires:
       - name: bookshop-java-public-hdi-container
